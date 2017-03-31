@@ -137,6 +137,7 @@
 				TargetAttributes = {
 					D221CBB31E8DE432000DBB06 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 3FV9VCGV2H;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -348,8 +349,11 @@
 			baseConfigurationReference = 2FD6BE1AEF6952395610E1A3 /* Pods-examplefour.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3FV9VCGV2H;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = examplefour/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codeapper.examplefour;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -361,8 +365,11 @@
 			baseConfigurationReference = 9F66968B5715E8FF5FBC0D31 /* Pods-examplefour.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				DEVELOPMENT_TEAM = 3FV9VCGV2H;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = examplefour/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.codeapper.examplefour;
 				PRODUCT_NAME = "$(TARGET_NAME)";
