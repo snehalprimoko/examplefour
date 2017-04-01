@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<false/>
+	<key>thinning</key>
+	<string>&lt;thin-for-all-variants&gt;</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string></string>
+		<key>displayImageURL</key>
+		<string></string>
+		<key>fullSizeImageURL</key>
+		<string></string>
+	</dict>
+	<key>method</key>
+	<string>ad-hoc</string>
+</dict>
+</plist>
