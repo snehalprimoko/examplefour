@@ -30,6 +30,7 @@
 		D221CBC31E8DE432000DBB06 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D221CBC61E8DE432000DBB06 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D221CBC81E8DE432000DBB06 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D241BD321E904603005CC04C /* exportOptions.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = exportOptions.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +57,7 @@
 		D221CBAB1E8DE432000DBB06 = {
 			isa = PBXGroup;
 			children = (
+				D241BD321E904603005CC04C /* exportOptions.plist */,
 				D221CBB61E8DE432000DBB06 /* examplefour */,
 				D221CBB51E8DE432000DBB06 /* Products */,
 				B453405967CA23E480C0FF6C /* Pods */,

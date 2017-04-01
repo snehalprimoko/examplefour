@@ -5,16 +5,16 @@
 	<key>compileBitcode</key>
 	<false/>
 	<key>thinning</key>
-	<string>&lt;thin-for-all-variants&gt;</string>
+	<string>thin-for-all-variants</string>
 	<key>manifest</key>
 	<dict>
-        <key>appURL</key>
-        <string>foo.bar/app</string>
-        <key>displayImageURL</key>
-        <string>foo.bar/display-image</string>
-        <ke>fullSizeImageURL</key>
-        <string>foo.bar/full-sized-image</string>
-    </dict>
+		<key>appURL</key>
+		<string>foo.bar/app</string>
+		<key>displayImageURL</key>
+		<string>foo.bar/display-image</string>
+		<key>fullSizeImageURL</key>
+		<string>foo.bar/full-sized-image</string>
+	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
 </dict>
