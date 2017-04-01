@@ -8,13 +8,13 @@
 	<string>&lt;thin-for-all-variants&gt;</string>
 	<key>manifest</key>
 	<dict>
-		<key>appURL</key>
-		<string></string>
-		<key>displayImageURL</key>
-		<string></string>
-		<key>fullSizeImageURL</key>
-		<string></string>
-	</dict>
+        <key>appURL</key>
+        <string>foo.bar/app</string>
+        <key>displayImageURL</key>
+        <string>foo.bar/display-image</string>
+        <ke>fullSizeImageURL</key>
+        <string>foo.bar/full-sized-image</string>
+    </dict>
 	<key>method</key>
 	<string>ad-hoc</string>
 </dict>
