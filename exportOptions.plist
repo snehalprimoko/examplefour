@@ -4,8 +4,6 @@
 <dict>
 	<key>compileBitcode</key>
 	<false/>
-	<key>thinning</key>
-	<string>thin-for-all-variants</string>
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
